@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<!-- служебная часть -->
+<head>
+  <!-- заголовок страницы -->
+  <title>Beyblade Burst Evolution</title>
+  <link rel="stylesheet" href="style.css">
+  <form action="#/search">
+    <input style="width: 50%;" type="text" name="text" />
+    <select name="type" id="">
+        <option value="">all</option>
+        <option value="content">content</option>
+        <option value="gallery">gallery</option>
+        <option value="catalog">catalog</option>
+    </select>
+    <input type="submit" value="Найти" />
+</form>
+
+  <!-- настраиваем служебную информацию для браузеров -->
+</head>
+
+<body>
+
+        <h1>what is Beyblade Burst Evolution</h1>
+
+        <p>Beyblade Burst Evolution, known as Beyblade Burst God (ベイブレードバースト神ゴッド, Beiburēdo Bāsuto Goddo) 
+          in Japan, is the second season of the Beyblade Burst anime, and the ninth season of the Beyblade anime overall. 
+          The season began airing on TV Tokyo on April 3, 2017 and concluded on March 26, 2018. Episodes aired every Monday at 5:55pm JST 
+          on TV Tokyo..</p>
+
+          <h1>what is going on in Beyblade Burst Evolution?</h1>
+
+          <p>Valt Aoi, who participated in the Japanese Championship, 
+            was scouted for the prestigious Spanish team BC Sol and heads out to Spain. 
+            With their sights set on the world, Valt and his friends begin their challenge for the World League! However, 
+            in order to qualify for the World League, they must first win the European League.
+             Will Valt be able to take BC Sol to the World League? And can he defeat the world's strongest Bladers?
+            Valt's story of fierce battling and growth begins as he sets his sights to the top of the world!</p>
+
+
+
+
+        <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK-760B9RGKVnKLU_o01vLs_9BHlUaXT8b3Q&usqp=CAU"
+            width="100" height="111" alt="Image not found"></p>
+
+        <h2>What is beyblade burst</h2>
+
+        <p><a href="https://beyblade.fandom.com/wiki/Beyblade_Burst_Evolution">Beyblade Burst Evolution Wiki</a></p>
+        <p><a href="https://beyblade.fandom.com/wiki/Valt_Aoi">who is the main character in Beyblade Burst Evolution</a></p>
+
+
+        <p><a href="https://beyblade.fandom.com/wiki/Valtryek#Victory/Genesis/Strike_Valtryek">the main character's Beyblade </a></p>
+        <p><a href="https://beyblade.fandom.com/wiki/Shu_Kurenai#As_Red_Eye">the main villian in Beyblade Burst Evolution</a></p>
+
+
+
+        
+<!-- конец всей страницы -->
+
+
+
+
+</html>
